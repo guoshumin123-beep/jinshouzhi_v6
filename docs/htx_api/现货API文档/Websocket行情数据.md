@@ -1,0 +1,5 @@
+# Websocket行情数据
+
+> 文档来源：https://www.htx.com/zh-cn/opend/newApiPages/?id=88
+
+
